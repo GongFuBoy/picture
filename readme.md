@@ -4,3 +4,4 @@
 
 1. 测试图片使用
 
+![test](https://github.com/GongFuBoy/picture/blob/master/test.png?raw=true)
